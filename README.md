@@ -112,14 +112,6 @@ The foundation model uses a transformer-based architecture with:
 - **Transformer Encoder**: Multi-head attention layers
 - **Multi-objective Training**: Contrastive + masked + classification losses
 
-## Results
-
-The model achieves:
-- Mean AUC-ROC: 0.945 across 13 benchmark datasets
-- Statistical significance on all datasets (p < 0.001, Bonferroni corrected)
-- Efficient training: 99.77% validation accuracy in ~67 minutes
-- Strong cross-domain transfer capabilities
-
 ## Statistical Methods
 
 - **Cross-validation**: Leave-one-out (N<100) or 5-fold stratified
