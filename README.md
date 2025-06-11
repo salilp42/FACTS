@@ -120,18 +120,7 @@ The foundation model uses a transformer-based architecture with:
 - **Multiple comparisons**: Bonferroni and FDR correction
 - **Heterogeneity**: I² statistic for meta-analysis
 
-## Citation
 
-If you use this code in your research, please cite:
-
-```bibtex
-@article{facts2024,
-  title={Foundation Models for Cross-Domain Time Series Classification},
-  author={[Authors]},
-  journal={[Journal]},
-  year={2024}
-}
-```
 
 ## License
 
