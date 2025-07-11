@@ -1,6 +1,6 @@
 # FACTS: Foundation model Analysis for Cross-domain Time Series
 
-A comprehensive framework for training and evaluating foundation models on time series data across multiple scientific domains.
+A framework for training and evaluating foundation models on time series data across multiple scientific domains.
 
 ## Overview
 
